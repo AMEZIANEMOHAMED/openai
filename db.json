@@ -1,14 +1,14 @@
 [
   {
 	"banner": "ca-app-pub-0712001027015093/7836820897",
-	"show_banner": "true"
+	"show_banner": "false"
   },
   {
 	"interstial": "ca-app-pub-0712001027015093/7623415519",
-	"show_interstial": "true"
+	"show_interstial": "false"
   },
   {
 	"reward": "ca-app-pub-0712001027015093/6348479406",
-	"show_reward": "true"
+	"show_reward": "false"
   }
 ]
